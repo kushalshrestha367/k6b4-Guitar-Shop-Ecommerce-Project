@@ -1,3 +1,3 @@
 Admin Login
-Uername: admin
+Username: admin
 Password: 111
